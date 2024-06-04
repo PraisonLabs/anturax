@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --primary-red: #ff0040;
+  --primary-cyan: #00ffff;
+  --dark-bg: #0a0a0a;
+  --grid-color: rgba(255, 0, 64, 0.1);
+  --text-primary: #ffffff;
+  --text-secondary: #cccccc;
+  --glow-red: 0 0 20px rgba(255, 0, 64, 0.5);
+  --glow-cyan: 0 0 20px rgba(0, 255, 255, 0.5);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Rajdhani', sans-serif;
+  background: var(--dark-bg);
+  color: var(--text-primary);
+  overflow-x: hidden;
+}

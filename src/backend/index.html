@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anturax API Server</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #0a0a0a;
+            color: #00ffff;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            background-image: 
+                linear-gradient(rgba(255, 0, 64, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 0, 64, 0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(10, 10, 10, 0.8);
+            border: 1px solid rgba(255, 0, 64, 0.3);
+            border-radius: 8px;
+            padding: 2rem;
+        }
+        
+        h1 {
+            color: #ff0040;
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            text-shadow: 0 0 20px rgba(255, 0, 64, 0.5);
+        }
+        
+        .api-info {
+            background: rgba(0, 20, 20, 0.5);
+            border: 1px solid rgba(0, 255, 255, 0.3);
+            border-radius: 4px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .endpoint {
+            background: rgba(20, 0, 0, 0.5);
+            border: 1px solid rgba(255, 0, 64, 0.3);
+            border-radius: 4px;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        .method {
+            display: inline-block;
+            background: #ff0040;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        
+        .method.get { background: #00aa00; }
+        .method.post { background: #ff0040; }
+        
+        code {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2px 4px;
+            border-radius: 3px;
+            color: #00ffff;
+        }
+        
+        .status {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1rem;
+            border: 2px solid #00ff00;
+            border-radius: 8px;
+            background: rgba(0, 255, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>=ø ANTURAX API SERVER =ø</h1>
+        
+        <div class="api-info">
+            <h2>Server Information</h2>
+            <p><strong>Version:</strong> 1.0.0</p>
+            <p><strong>Status:</strong> Online</p>
+            <p><strong>Base URL:</strong> <code>/api</code></p>
+        </div>
+        
+        <h2>Available Endpoints</h2>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <strong>/api/health</strong>
+            <p>Check server health and status</p>
+        </div>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <strong>/api/systems</strong>
+            <p>Get all Anturax systems status</p>
+        </div>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <strong>/api/systems/:id</strong>
+            <p>Get specific system information</p>
+        </div>
+        
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <strong>/api/systems/:id/status</strong>
+            <p>Update system status</p>
+        </div>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <strong>/api/stats</strong>
+            <p>Get overall system statistics</p>
+        </div>
+        
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <strong>/api/artifacts</strong>
+            <p>Get available artifacts</p>
+        </div>
+        
+        <div class="status">
+            <h3>=â All Systems Operational</h3>
+            <p>Quantum drive stable | Neural net active | Temporal flux nominal</p>
+        </div>
+    </div>
+</body>
+</html>

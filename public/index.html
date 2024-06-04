@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Anturax - A futuristic, fashion-forward visual concept project combining cyberpunk aesthetics and retro-futuristic expression">
+    <meta name="keywords" content="cyberpunk, futuristic, visual, interactive, webgl, three.js, anturax">
+    <meta name="author" content="BL/S� & DICH">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://p-dich.vercel.app/anturax.html">
+    <meta property="og:title" content="Anturax - Innovation � Perfection � Elegance">
+    <meta property="og:description" content="Experience the future through cyberpunk aesthetics and retro-futuristic design">
+    <meta property="og:image" content="./banner.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://p-dich.vercel.app/anturax.html">
+    <meta property="twitter:title" content="Anturax - Innovation � Perfection � Elegance">
+    <meta property="twitter:description" content="Experience the future through cyberpunk aesthetics and retro-futuristic design">
+    <meta property="twitter:image" content="./banner.png">
+    
+    <title>Anturax - Innovation � Perfection � Elegance</title>
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Rajdhani', sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 50%, #0a0a0a 100%);
+            color: #ffffff;
+            min-height: 100vh;
+            background-image: 
+                linear-gradient(rgba(255, 0, 64, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 0, 64, 0.1) 1px, transparent 1px);
+            background-size: 50px 50px;
+            overflow-x: hidden;
+        }
+        
+        .landing-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 2rem;
+        }
+        
+        .logo {
+            font-family: 'Orbitron', monospace;
+            font-size: 4rem;
+            font-weight: 900;
+            color: #ff0040;
+            text-shadow: 0 0 30px rgba(255, 0, 64, 0.7);
+            margin-bottom: 1rem;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes glow {
+            from { text-shadow: 0 0 20px rgba(255, 0, 64, 0.5); }
+            to { text-shadow: 0 0 40px rgba(255, 0, 64, 0.9); }
+        }
+        
+        .tagline {
+            font-size: 1.5rem;
+            color: #00ffff;
+            margin-bottom: 2rem;
+            letter-spacing: 2px;
+        }
+        
+        .description {
+            max-width: 600px;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #cccccc;
+            margin-bottom: 3rem;
+        }
+        
+        .cta-container {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .cta-button {
+            background: linear-gradient(45deg, #ff0040, #ff4080);
+            border: none;
+            color: white;
+            padding: 1rem 2rem;
+            font-size: 1rem;
+            font-weight: 700;
+            font-family: 'Orbitron', monospace;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 0 20px rgba(255, 0, 64, 0.5);
+        }
+        
+        .cta-button:hover {
+            background: linear-gradient(45deg, #ff4080, #ff0040);
+            transform: translateY(-2px);
+            box-shadow: 0 0 30px rgba(255, 0, 64, 0.8);
+        }
+        
+        .cta-button.secondary {
+            background: linear-gradient(45deg, #00ffff, #4080ff);
+            box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
+        }
+        
+        .cta-button.secondary:hover {
+            background: linear-gradient(45deg, #4080ff, #00ffff);
+            box-shadow: 0 0 30px rgba(0, 255, 255, 0.8);
+        }
+        
+        .status-grid {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: rgba(10, 10, 10, 0.8);
+            border: 1px solid rgba(255, 0, 64, 0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            backdrop-filter: blur(10px);
+            font-size: 0.8rem;
+        }
+        
+        .status-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+        
+        .status-value.online { color: #00ff00; }
+        .status-value.active { color: #ff0040; }
+        .status-value.stable { color: #00ffff; }
+        
+        @media (max-width: 768px) {
+            .logo { font-size: 2.5rem; }
+            .tagline { font-size: 1.2rem; }
+            .description { font-size: 1rem; }
+            .cta-container { flex-direction: column; align-items: center; }
+            .status-grid { position: static; margin-top: 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="landing-container">
+        <h1 class="logo">ANTURAX</h1>
+        <p class="tagline">Innovation � Perfection � Elegance</p>
+        
+        <div class="description">
+            <p>Experience the future through cyberpunk aesthetics and retro-futuristic design. 
+            Journey through the Anturax system where quantum drives power neural networks 
+            and temporal flux shapes reality itself.</p>
+        </div>
+        
+        <div class="cta-container">
+            <a href="#" class="cta-button" onclick="initializeApp()">Enter System</a>
+            <a href="/api/health" class="cta-button secondary">API Status</a>
+        </div>
+        
+        <div class="status-grid">
+            <div class="status-item">
+                <span>Core Systems:</span>
+                <span class="status-value online">ONLINE</span>
+            </div>
+            <div class="status-item">
+                <span>Neural Net:</span>
+                <span class="status-value active">ACTIVE</span>
+            </div>
+            <div class="status-item">
+                <span>Quantum Drive:</span>
+                <span class="status-value stable">STABLE</span>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function initializeApp() {
+            console.log('=� Initializing Anturax System...');
+            console.log('TPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPW');
+            console.log('Q                    =� ANTURAX ACTIVATED =�                   Q');
+            console.log('ZPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP]');
+            
+            // Future: Load React app or redirect to app page
+            alert('=� Anturax System Activated! Check the console for hidden features.');
+        }
+        
+        // Easter egg: Konami code
+        let konamiCode = [];
+        const targetSequence = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'KeyB', 'KeyA'];
+        
+        document.addEventListener('keydown', (e) => {
+            konamiCode.push(e.code);
+            if (konamiCode.length > targetSequence.length) {
+                konamiCode.shift();
+            }
+            
+            if (konamiCode.join(',') === targetSequence.join(',')) {
+                console.log('<� KONAMI CODE ACTIVATED - DEV MODE UNLOCKED');
+                document.body.style.filter = 'hue-rotate(180deg) saturate(1.5)';
+                setTimeout(() => {
+                    document.body.style.filter = 'none';
+                }, 3000);
+            }
+        });
+        
+        // Mouse trail effect
+        document.addEventListener('mousemove', (e) => {
+            if (Math.random() < 0.1) { // 10% chance
+                const trail = document.createElement('div');
+                trail.style.position = 'fixed';
+                trail.style.left = e.clientX + 'px';
+                trail.style.top = e.clientY + 'px';
+                trail.style.width = '2px';
+                trail.style.height = '2px';
+                trail.style.background = '#ff0040';
+                trail.style.borderRadius = '50%';
+                trail.style.pointerEvents = 'none';
+                trail.style.boxShadow = '0 0 10px #ff0040';
+                trail.style.animation = 'fade 1s ease-out forwards';
+                
+                document.body.appendChild(trail);
+                
+                setTimeout(() => {
+                    if (trail.parentNode) {
+                        trail.parentNode.removeChild(trail);
+                    }
+                }, 1000);
+            }
+        });
+        
+        // Add fade animation
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes fade {
+                0% { opacity: 1; transform: scale(1); }
+                100% { opacity: 0; transform: scale(0); }
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>
