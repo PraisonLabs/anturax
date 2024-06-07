@@ -8,3 +8,5 @@ Improve UI responsiveness
 
 Write tests for inventory functions
 
+Update config settings
+
