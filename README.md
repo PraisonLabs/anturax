@@ -10,3 +10,5 @@ Write tests for inventory functions
 
 Update config settings
 
+Add support for new file format
+
