@@ -20,3 +20,5 @@ Update config settings
 
 Update README with usage instructions
 
+Cleanup codebase
+
