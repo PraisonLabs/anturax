@@ -30,3 +30,5 @@ Cleanup codebase
 
 Improve error handling
 
+Update config settings
+
