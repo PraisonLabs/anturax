@@ -38,3 +38,5 @@ Improve logging
 
 Cleanup codebase
 
+Improve error handling
+
