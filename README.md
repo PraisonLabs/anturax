@@ -40,3 +40,5 @@ Cleanup codebase
 
 Improve error handling
 
+Write tests for inventory functions
+
