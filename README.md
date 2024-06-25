@@ -54,3 +54,5 @@ Fix bug in inventory module
 
 Improve error handling
 
+Update requirements.txt
+
