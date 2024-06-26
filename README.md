@@ -64,3 +64,5 @@ Update config settings
 
 Optimize performance
 
+Improve logging
+
