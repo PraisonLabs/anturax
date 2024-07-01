@@ -6,3 +6,5 @@ Add support for new file format
 
 Improve UI responsiveness
 
+Write tests for inventory functions
+
