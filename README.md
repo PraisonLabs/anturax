@@ -12,3 +12,5 @@ Update config settings
 
 Add support for new file format
 
+Add support for new file format
+
