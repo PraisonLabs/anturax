@@ -78,3 +78,5 @@ Refactor code for better readability
 
 Update config settings
 
+Update requirements.txt
+
