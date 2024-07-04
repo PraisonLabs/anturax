@@ -18,3 +18,5 @@ Add comments to clarify code
 
 Update config settings
 
+Update README with usage instructions
+
