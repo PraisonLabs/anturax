@@ -22,3 +22,5 @@ Update README with usage instructions
 
 Cleanup codebase
 
+Add comments to clarify code
+
