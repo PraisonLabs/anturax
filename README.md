@@ -28,3 +28,5 @@ Optimize performance
 
 Cleanup codebase
 
+Improve error handling
+
