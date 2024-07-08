@@ -26,3 +26,5 @@ Add comments to clarify code
 
 Optimize performance
 
+Cleanup codebase
+
