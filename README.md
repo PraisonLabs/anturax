@@ -32,3 +32,5 @@ Improve error handling
 
 Update config settings
 
+Refactor code for better readability
+
