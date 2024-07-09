@@ -34,3 +34,5 @@ Update config settings
 
 Refactor code for better readability
 
+Improve logging
+
