@@ -82,3 +82,5 @@ Update requirements.txt
 
 Add comments to clarify code
 
+Update config settings
+
