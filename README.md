@@ -86,3 +86,5 @@ Update config settings
 
 Update config settings
 
+Update requirements.txt
+
