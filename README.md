@@ -88,3 +88,5 @@ Update config settings
 
 Update requirements.txt
 
+Improve logging
+
