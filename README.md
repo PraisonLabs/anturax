@@ -44,3 +44,5 @@ Write tests for inventory functions
 
 Update requirements.txt
 
+Optimize performance
+
