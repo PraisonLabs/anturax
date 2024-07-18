@@ -50,3 +50,5 @@ Fix typo in code
 
 Update dependencies
 
+Fix bug in inventory module
+
