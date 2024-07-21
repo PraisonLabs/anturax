@@ -108,3 +108,5 @@ Refactor code for better readability
 
 Update requirements.txt
 
+Optimize performance
+
