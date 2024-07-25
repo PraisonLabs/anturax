@@ -58,3 +58,5 @@ Update requirements.txt
 
 Remove unused imports
 
+Improve logging
+
