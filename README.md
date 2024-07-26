@@ -128,3 +128,5 @@ Fix failing tests
 
 Fix bug in inventory module
 
+Improve logging
+
