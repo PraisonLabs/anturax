@@ -132,3 +132,5 @@ Improve logging
 
 Update dependencies
 
+Fix bug in inventory module
+
