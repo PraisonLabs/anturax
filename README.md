@@ -130,3 +130,5 @@ Fix bug in inventory module
 
 Improve logging
 
+Update dependencies
+
