@@ -66,3 +66,5 @@ Optimize performance
 
 Improve logging
 
+Update requirements.txt
+
