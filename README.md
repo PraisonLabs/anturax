@@ -68,3 +68,5 @@ Improve logging
 
 Update requirements.txt
 
+Add comments to clarify code
+
