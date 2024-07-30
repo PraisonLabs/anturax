@@ -74,3 +74,5 @@ Update requirements.txt
 
 Add comments to clarify code
 
+Refactor code for better readability
+
