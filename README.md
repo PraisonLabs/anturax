@@ -142,3 +142,5 @@ Update documentation
 
 Update README with usage instructions
 
+Update requirements.txt
+
