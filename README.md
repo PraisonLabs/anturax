@@ -144,3 +144,5 @@ Update README with usage instructions
 
 Update requirements.txt
 
+Add new feature to inventory
+
