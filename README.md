@@ -148,3 +148,5 @@ Add new feature to inventory
 
 Remove unused imports
 
+Fix failing tests
+
