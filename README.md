@@ -160,3 +160,5 @@ Update dependencies
 
 Update requirements.txt
 
+Refactor code for better readability
+
