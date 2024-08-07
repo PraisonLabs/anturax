@@ -90,3 +90,5 @@ Update requirements.txt
 
 Improve logging
 
+Implement user authentication
+
