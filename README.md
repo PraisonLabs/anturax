@@ -92,3 +92,5 @@ Improve logging
 
 Implement user authentication
 
+Update dependencies
+
