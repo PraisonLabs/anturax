@@ -174,3 +174,5 @@ Cleanup codebase
 
 Update documentation
 
+Update requirements.txt
+
