@@ -172,3 +172,5 @@ Update config settings
 
 Cleanup codebase
 
+Update documentation
+
