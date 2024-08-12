@@ -178,3 +178,5 @@ Update requirements.txt
 
 Add comments to clarify code
 
+Write tests for inventory functions
+
