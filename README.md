@@ -198,3 +198,5 @@ Update requirements.txt
 
 Improve logging
 
+Write tests for inventory functions
+
