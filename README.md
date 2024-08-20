@@ -208,3 +208,5 @@ Update dependencies
 
 Write tests for inventory functions
 
+Update README with usage instructions
+
