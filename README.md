@@ -218,3 +218,5 @@ Update README with usage instructions
 
 Improve logging
 
+Refactor code for better readability
+
