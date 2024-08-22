@@ -222,3 +222,5 @@ Refactor code for better readability
 
 Update requirements.txt
 
+Update dependencies
+
