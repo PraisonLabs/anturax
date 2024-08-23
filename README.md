@@ -110,3 +110,5 @@ Update requirements.txt
 
 Optimize performance
 
+Update README with usage instructions
+
