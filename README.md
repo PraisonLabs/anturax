@@ -114,3 +114,5 @@ Update README with usage instructions
 
 Remove unused imports
 
+Update requirements.txt
+
