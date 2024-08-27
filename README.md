@@ -230,3 +230,5 @@ Update README with usage instructions
 
 Remove unused imports
 
+Fix typo in code
+
