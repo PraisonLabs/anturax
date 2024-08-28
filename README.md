@@ -120,3 +120,5 @@ Optimize performance
 
 Add comments to clarify code
 
+Add new feature to inventory
+
