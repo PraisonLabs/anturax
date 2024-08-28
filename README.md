@@ -118,3 +118,5 @@ Update requirements.txt
 
 Optimize performance
 
+Add comments to clarify code
+
