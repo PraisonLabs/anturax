@@ -240,3 +240,5 @@ Improve error handling
 
 Refactor code for better readability
 
+Update README with usage instructions
+
