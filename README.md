@@ -242,3 +242,5 @@ Refactor code for better readability
 
 Update README with usage instructions
 
+Update requirements.txt
+
