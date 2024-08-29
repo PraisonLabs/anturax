@@ -244,3 +244,5 @@ Update README with usage instructions
 
 Update requirements.txt
 
+Fix typo in code
+
