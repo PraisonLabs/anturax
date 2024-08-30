@@ -250,3 +250,5 @@ Write tests for inventory functions
 
 Cleanup codebase
 
+Implement user authentication
+
