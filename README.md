@@ -126,3 +126,5 @@ Update config settings
 
 Fix failing tests
 
+Fix bug in inventory module
+
