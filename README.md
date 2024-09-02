@@ -252,3 +252,5 @@ Cleanup codebase
 
 Implement user authentication
 
+Add new feature to inventory
+
