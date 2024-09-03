@@ -260,3 +260,5 @@ Update dependencies
 
 Optimize performance
 
+Update documentation
+
