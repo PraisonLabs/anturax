@@ -134,3 +134,5 @@ Update dependencies
 
 Fix bug in inventory module
 
+Implement user authentication
+
