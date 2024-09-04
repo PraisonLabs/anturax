@@ -276,3 +276,5 @@ Add new feature to inventory
 
 Refactor code for better readability
 
+Improve logging
+
