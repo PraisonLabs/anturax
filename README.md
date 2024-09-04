@@ -268,3 +268,5 @@ Update README with usage instructions
 
 Update requirements.txt
 
+Refactor code for better readability
+
