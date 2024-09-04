@@ -270,3 +270,5 @@ Update requirements.txt
 
 Refactor code for better readability
 
+Implement user authentication
+
