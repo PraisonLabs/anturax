@@ -138,3 +138,5 @@ Implement user authentication
 
 Fix failing tests
 
+Update documentation
+
