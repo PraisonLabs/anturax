@@ -140,3 +140,5 @@ Fix failing tests
 
 Update documentation
 
+Update README with usage instructions
+
