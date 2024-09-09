@@ -146,3 +146,5 @@ Update requirements.txt
 
 Add new feature to inventory
 
+Remove unused imports
+
