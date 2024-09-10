@@ -304,3 +304,5 @@ Improve UI responsiveness
 
 Cleanup codebase
 
+Improve UI responsiveness
+
