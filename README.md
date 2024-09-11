@@ -308,3 +308,5 @@ Improve UI responsiveness
 
 Update config settings
 
+Add new feature to inventory
+
