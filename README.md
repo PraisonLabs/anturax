@@ -152,3 +152,5 @@ Fix failing tests
 
 Improve logging
 
+Fix typo in code
+
