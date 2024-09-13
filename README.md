@@ -326,3 +326,5 @@ Update documentation
 
 Fix failing tests
 
+Update dependencies
+
