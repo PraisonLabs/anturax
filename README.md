@@ -336,3 +336,5 @@ Improve logging
 
 Update config settings
 
+Add new feature to inventory
+
