@@ -342,3 +342,5 @@ Add new feature to inventory
 
 Improve error handling
 
+Fix typo in code
+
