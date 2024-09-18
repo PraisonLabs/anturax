@@ -352,3 +352,5 @@ Update dependencies
 
 Cleanup codebase
 
+Improve error handling
+
