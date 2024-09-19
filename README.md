@@ -356,3 +356,5 @@ Improve error handling
 
 Improve UI responsiveness
 
+Implement user authentication
+
