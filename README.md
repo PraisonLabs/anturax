@@ -366,3 +366,5 @@ Update requirements.txt
 
 Fix failing tests
 
+Fix bug in inventory module
+
