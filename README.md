@@ -166,3 +166,5 @@ Update requirements.txt
 
 Improve UI responsiveness
 
+Update documentation
+
