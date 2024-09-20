@@ -164,3 +164,5 @@ Refactor code for better readability
 
 Update requirements.txt
 
+Improve UI responsiveness
+
