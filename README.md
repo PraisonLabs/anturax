@@ -168,3 +168,5 @@ Improve UI responsiveness
 
 Update documentation
 
+Update config settings
+
