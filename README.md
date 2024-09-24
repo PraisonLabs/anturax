@@ -180,3 +180,5 @@ Add comments to clarify code
 
 Write tests for inventory functions
 
+Improve UI responsiveness
+
