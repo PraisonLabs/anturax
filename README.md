@@ -176,3 +176,5 @@ Update documentation
 
 Update requirements.txt
 
+Add comments to clarify code
+
