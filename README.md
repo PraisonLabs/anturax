@@ -182,3 +182,5 @@ Write tests for inventory functions
 
 Improve UI responsiveness
 
+Fix bug in inventory module
+
