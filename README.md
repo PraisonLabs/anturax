@@ -184,3 +184,5 @@ Improve UI responsiveness
 
 Fix bug in inventory module
 
+Fix failing tests
+
