@@ -186,3 +186,5 @@ Fix bug in inventory module
 
 Fix failing tests
 
+Remove unused imports
+
