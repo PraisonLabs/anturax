@@ -392,3 +392,5 @@ Optimize performance
 
 Fix bug in inventory module
 
+Fix typo in code
+
