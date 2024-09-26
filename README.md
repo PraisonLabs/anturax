@@ -398,3 +398,5 @@ Write tests for inventory functions
 
 Cleanup codebase
 
+Refactor code for better readability
+
