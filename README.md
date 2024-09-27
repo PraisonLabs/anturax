@@ -402,3 +402,5 @@ Refactor code for better readability
 
 Cleanup codebase
 
+Fix bug in inventory module
+
