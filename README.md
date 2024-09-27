@@ -194,3 +194,5 @@ Fix typo in code
 
 Fix typo in code
 
+Update requirements.txt
+
