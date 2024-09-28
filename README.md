@@ -404,3 +404,5 @@ Cleanup codebase
 
 Fix bug in inventory module
 
+Update requirements.txt
+
