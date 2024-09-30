@@ -418,3 +418,5 @@ Implement user authentication
 
 Improve logging
 
+Add new feature to inventory
+
