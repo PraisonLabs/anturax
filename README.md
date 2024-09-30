@@ -414,3 +414,5 @@ Add new feature to inventory
 
 Fix typo in code
 
+Implement user authentication
+
