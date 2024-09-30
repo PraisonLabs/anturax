@@ -202,3 +202,5 @@ Write tests for inventory functions
 
 Remove unused imports
 
+Fix failing tests
+
