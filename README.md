@@ -422,3 +422,5 @@ Add new feature to inventory
 
 Improve error handling
 
+Write tests for inventory functions
+
