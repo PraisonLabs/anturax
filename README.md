@@ -206,3 +206,5 @@ Fix failing tests
 
 Update dependencies
 
+Write tests for inventory functions
+
