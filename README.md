@@ -436,3 +436,5 @@ Add comments to clarify code
 
 Improve logging
 
+Add support for new file format
+
