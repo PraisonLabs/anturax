@@ -434,3 +434,5 @@ Update dependencies
 
 Add comments to clarify code
 
+Improve logging
+
