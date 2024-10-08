@@ -210,3 +210,5 @@ Write tests for inventory functions
 
 Update README with usage instructions
 
+Update requirements.txt
+
