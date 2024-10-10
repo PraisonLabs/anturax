@@ -220,3 +220,5 @@ Improve logging
 
 Refactor code for better readability
 
+Update requirements.txt
+
