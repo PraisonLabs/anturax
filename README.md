@@ -224,3 +224,5 @@ Update requirements.txt
 
 Update dependencies
 
+Improve UI responsiveness
+
