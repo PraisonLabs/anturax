@@ -234,3 +234,5 @@ Fix typo in code
 
 Fix bug in inventory module
 
+Fix bug in inventory module
+
