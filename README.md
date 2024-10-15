@@ -232,3 +232,5 @@ Remove unused imports
 
 Fix typo in code
 
+Fix bug in inventory module
+
