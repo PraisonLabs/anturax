@@ -472,3 +472,5 @@ Fix bug in inventory module
 
 Implement user authentication
 
+Update requirements.txt
+
