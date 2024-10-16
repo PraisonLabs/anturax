@@ -236,3 +236,5 @@ Fix bug in inventory module
 
 Fix bug in inventory module
 
+Improve error handling
+
