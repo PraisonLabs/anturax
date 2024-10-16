@@ -470,3 +470,5 @@ Write tests for inventory functions
 
 Fix bug in inventory module
 
+Implement user authentication
+
