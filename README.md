@@ -466,3 +466,5 @@ Fix failing tests
 
 Optimize performance
 
+Write tests for inventory functions
+
