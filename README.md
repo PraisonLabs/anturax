@@ -478,3 +478,5 @@ Update documentation
 
 Update dependencies
 
+Add comments to clarify code
+
