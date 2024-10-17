@@ -238,3 +238,5 @@ Fix bug in inventory module
 
 Improve error handling
 
+Refactor code for better readability
+
