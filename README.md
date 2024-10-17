@@ -474,3 +474,5 @@ Implement user authentication
 
 Update requirements.txt
 
+Update documentation
+
