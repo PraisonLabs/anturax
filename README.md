@@ -482,3 +482,5 @@ Add comments to clarify code
 
 Fix typo in code
 
+Fix bug in inventory module
+
