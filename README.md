@@ -488,3 +488,5 @@ Add comments to clarify code
 
 Add new feature to inventory
 
+Write tests for inventory functions
+
