@@ -484,3 +484,5 @@ Fix typo in code
 
 Fix bug in inventory module
 
+Add comments to clarify code
+
