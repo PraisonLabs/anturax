@@ -486,3 +486,5 @@ Fix bug in inventory module
 
 Add comments to clarify code
 
+Add new feature to inventory
+
