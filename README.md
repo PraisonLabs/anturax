@@ -246,3 +246,5 @@ Update requirements.txt
 
 Fix typo in code
 
+Write tests for inventory functions
+
