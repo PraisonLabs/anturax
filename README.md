@@ -500,3 +500,5 @@ Update documentation
 
 Remove unused imports
 
+Add comments to clarify code
+
