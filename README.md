@@ -512,3 +512,5 @@ Improve UI responsiveness
 
 Update documentation
 
+Add comments to clarify code
+
