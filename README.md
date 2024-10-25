@@ -254,3 +254,5 @@ Implement user authentication
 
 Add new feature to inventory
 
+Optimize performance
+
