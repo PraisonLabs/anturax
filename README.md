@@ -552,3 +552,5 @@ Add new feature to inventory
 
 Update config settings
 
+Add comments to clarify code
+
