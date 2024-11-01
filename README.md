@@ -266,3 +266,5 @@ Remove unused imports
 
 Update README with usage instructions
 
+Update requirements.txt
+
