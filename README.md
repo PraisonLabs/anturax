@@ -560,3 +560,5 @@ Write tests for inventory functions
 
 Add support for new file format
 
+Improve error handling
+
