@@ -574,3 +574,5 @@ Update requirements.txt
 
 Improve logging
 
+Improve UI responsiveness
+
