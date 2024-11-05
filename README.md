@@ -570,3 +570,5 @@ Update config settings
 
 Improve logging
 
+Update requirements.txt
+
