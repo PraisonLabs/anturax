@@ -566,3 +566,5 @@ Update requirements.txt
 
 Update dependencies
 
+Update config settings
+
