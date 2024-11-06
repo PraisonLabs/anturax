@@ -584,3 +584,5 @@ Add new feature to inventory
 
 Update documentation
 
+Fix failing tests
+
