@@ -588,3 +588,5 @@ Fix failing tests
 
 Add support for new file format
 
+Optimize performance
+
