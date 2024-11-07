@@ -278,3 +278,5 @@ Refactor code for better readability
 
 Improve logging
 
+Add comments to clarify code
+
