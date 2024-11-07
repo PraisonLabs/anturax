@@ -592,3 +592,5 @@ Optimize performance
 
 Update documentation
 
+Improve error handling
+
