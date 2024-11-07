@@ -596,3 +596,5 @@ Improve error handling
 
 Optimize performance
 
+Add support for new file format
+
