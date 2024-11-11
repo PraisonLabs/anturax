@@ -604,3 +604,5 @@ Update config settings
 
 Fix bug in inventory module
 
+Refactor code for better readability
+
