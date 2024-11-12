@@ -614,3 +614,5 @@ Cleanup codebase
 
 Update requirements.txt
 
+Fix bug in inventory module
+
