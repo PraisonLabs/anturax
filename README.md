@@ -288,3 +288,5 @@ Update documentation
 
 Cleanup codebase
 
+Add new feature to inventory
+
