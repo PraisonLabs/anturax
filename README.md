@@ -616,3 +616,5 @@ Update requirements.txt
 
 Fix bug in inventory module
 
+Optimize performance
+
