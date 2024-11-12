@@ -618,3 +618,5 @@ Fix bug in inventory module
 
 Optimize performance
 
+Fix failing tests
+
