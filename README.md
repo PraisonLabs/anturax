@@ -290,3 +290,5 @@ Cleanup codebase
 
 Add new feature to inventory
 
+Update requirements.txt
+
