@@ -292,3 +292,5 @@ Add new feature to inventory
 
 Update requirements.txt
 
+Fix failing tests
+
