@@ -636,3 +636,5 @@ Improve logging
 
 Improve UI responsiveness
 
+Update config settings
+
