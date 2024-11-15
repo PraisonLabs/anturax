@@ -642,3 +642,5 @@ Fix typo in code
 
 Optimize performance
 
+Improve UI responsiveness
+
