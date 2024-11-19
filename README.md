@@ -652,3 +652,5 @@ Update config settings
 
 Fix typo in code
 
+Fix bug in inventory module
+
