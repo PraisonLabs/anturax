@@ -300,3 +300,5 @@ Update dependencies
 
 Update dependencies
 
+Improve UI responsiveness
+
