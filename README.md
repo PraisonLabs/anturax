@@ -302,3 +302,5 @@ Update dependencies
 
 Improve UI responsiveness
 
+Cleanup codebase
+
