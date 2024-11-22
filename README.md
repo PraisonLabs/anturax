@@ -310,3 +310,5 @@ Update config settings
 
 Add new feature to inventory
 
+Fix bug in inventory module
+
