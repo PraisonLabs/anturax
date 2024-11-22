@@ -306,3 +306,5 @@ Cleanup codebase
 
 Improve UI responsiveness
 
+Update config settings
+
