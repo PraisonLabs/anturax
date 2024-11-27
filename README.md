@@ -684,3 +684,5 @@ Remove unused imports
 
 Update README with usage instructions
 
+Improve UI responsiveness
+
