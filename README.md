@@ -686,3 +686,5 @@ Update README with usage instructions
 
 Improve UI responsiveness
 
+Cleanup codebase
+
