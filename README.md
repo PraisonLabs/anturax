@@ -688,3 +688,5 @@ Improve UI responsiveness
 
 Cleanup codebase
 
+Update documentation
+
