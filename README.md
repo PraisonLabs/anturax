@@ -696,3 +696,5 @@ Fix failing tests
 
 Refactor code for better readability
 
+Implement user authentication
+
