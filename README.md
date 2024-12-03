@@ -700,3 +700,5 @@ Implement user authentication
 
 Update documentation
 
+Update README with usage instructions
+
