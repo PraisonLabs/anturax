@@ -1,704 +1,115 @@
-Fix typo in code
+<p align="center">
+  <img src="public/banner.png" alt="Anturax Banner" />
+</p>
+<div align="center">
 
-Update requirements.txt
+# 🛸 ANTURAX  
+**Innovation · Perfection · Elegance**
 
-Add support for new file format
+![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel)  
+![Status](https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github)  
+![License](https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons)  
+![Powered By](https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge&logo=data:image/svg+xml;base64,)
 
-Improve UI responsiveness
+</div>
 
-Write tests for inventory functions
+---
 
-Update config settings
+## 🧬 Overview
 
-Add support for new file format
+> _Turn up the volume, baby. The future won’t wait._
 
-Add support for new file format
+**Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **DICH™ Fashion** universe.  
+It combines cyberpunk aesthetics, celestial themes, and retro-futuristic expression to craft a unique digital world.
 
-Add comments to clarify code
+- 🛰️ **Codename**: New Era of DICH  
+- 🎨 **Concept & Visuals**: Serhii Polyvanyi (BL/S®)  
+- 🧠 **Design Inspiration**: Masterclass by Niccolo Miranda (Awwwards)  
+- 🕰️ **Years**: 2024–2045  
 
-Update config settings
+---
 
-Update README with usage instructions
+## 🪐 Worldbuilding: Anturax
 
-Cleanup codebase
+- 🌌 **Planet/System**: ANTURAX  
+- 👾 **Population**: 3.6 Billion  
+- 🧩 **Origin**: Unknown  
+- 🌇 **Timeframe**: Eternal Sunset  
+- 🎭 **Genre**: FUTURE-RETRO
 
-Add comments to clarify code
+**Star Coordinates**  
+- 🌟 *Sirius* – Convergence Era  
+- 🔭 *Vireon* – 22nd Century  
+- ✨ *V889*, *V557* – Deep quadrant anomalies  
+- 🔗 GitDNA Reference: `ANTURAX.GIT`
 
-Optimize performance
+---
 
-Cleanup codebase
+## 🧱 Drop Collection
 
-Improve error handling
+> _Explore a visual payload coded in red neon and orbital data._
 
-Update config settings
+### 🚨 Key Items
 
-Refactor code for better readability
+| 🔻 Artifact | 💬 Description |
+|------------|----------------|
+| **Blood Eclipse Halo** | A crown forged in the heart of a dying sun |
+| **Scarlet Alloy Exosuit** | Nanofiber armor with encoded cosmic relics |
+| **Crimson Core Drive** | A volatile engine of rebirth and rebellion |
+| **Inferno Circuitry** | A molten neural mesh that whispers futures |
 
-Improve logging
+👉 _Hover interactions on the live site for deeper layers._
 
-Cleanup codebase
+---
 
-Improve error handling
+## 🧊 S'45 Series: "Sison"
 
-Write tests for inventory functions
+Mystic builds from the deeper vaults:
 
-Update requirements.txt
+- 🔸 **CRIMSON WRAITH – 909** (V4.5.M)  
+- 🔸 **SCARLET MIRAGE – 717** (C8.9.3)  
+- 🔸 **BLOOD SYNTH – 464** (S6.1.N)  
+- 🔸 **RUBY GLITCH – 282** (B3.0.P)
 
-Optimize performance
+---
 
-Fix typo in code
+## 🛠️ Tech Stack (If Implemented)
 
-Update dependencies
+> _This section is optional and speculative unless the code is open._
 
-Fix bug in inventory module
+- 🧱 HTML/CSS/JS or Webflow (for visual prototyping)  
+- 🎥 Three.js (for 3D graphics and object dynamics)  
+- 🎨 Figma for wireframes  
+- 🚀 Deployed on [Vercel](https://vercel.com)  
 
-Improve error handling
+---
 
-Update requirements.txt
+## 🔗 Live Preview
 
-Remove unused imports
+> See the future for yourself.
 
-Improve logging
+🌐 [Visit Anturax →](https://p-dich.vercel.app/anturax.html)
 
-Update config settings
+---
 
-Optimize performance
+## 🧾 License
 
-Improve logging
+[Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Update requirements.txt
+---
 
-Add comments to clarify code
+## ✨ Credits
 
-Update requirements.txt
+- 👤 **Creator**: Serhii Polyvanyi (BL/S®)  
+- 🎓 **Mentorship**: Niccolo Miranda, via Awwwards Masterclass  
+- 🗓️ **Timeline**: 2024–2045  
+- 🛰️ **Origin Site**: [p-dich.vercel.app/anturax.html](https://p-dich.vercel.app/anturax.html)
 
-Add comments to clarify code
+---
 
-Refactor code for better readability
+<div align="center">
 
-Update config settings
+> 🔮 *"ANTURAX is not a website. It's an echo from a possible future."*  
+> — _BL/S® Transmission Log 0001_
 
-Update requirements.txt
-
-Add comments to clarify code
-
-Update config settings
-
-Update config settings
-
-Update requirements.txt
-
-Improve logging
-
-Implement user authentication
-
-Update dependencies
-
-Update dependencies
-
-Fix failing tests
-
-Improve UI responsiveness
-
-Optimize performance
-
-Optimize performance
-
-Refactor code for better readability
-
-Update requirements.txt
-
-Optimize performance
-
-Update README with usage instructions
-
-Remove unused imports
-
-Update requirements.txt
-
-Optimize performance
-
-Add comments to clarify code
-
-Add new feature to inventory
-
-Update config settings
-
-Fix failing tests
-
-Fix bug in inventory module
-
-Improve logging
-
-Update dependencies
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Fix failing tests
-
-Update documentation
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Add new feature to inventory
-
-Remove unused imports
-
-Fix failing tests
-
-Improve logging
-
-Fix typo in code
-
-Update requirements.txt
-
-Update dependencies
-
-Update requirements.txt
-
-Refactor code for better readability
-
-Update requirements.txt
-
-Improve UI responsiveness
-
-Update documentation
-
-Update config settings
-
-Cleanup codebase
-
-Update documentation
-
-Update requirements.txt
-
-Add comments to clarify code
-
-Write tests for inventory functions
-
-Improve UI responsiveness
-
-Fix bug in inventory module
-
-Fix failing tests
-
-Remove unused imports
-
-Update dependencies
-
-Fix typo in code
-
-Fix typo in code
-
-Update requirements.txt
-
-Improve logging
-
-Write tests for inventory functions
-
-Remove unused imports
-
-Fix failing tests
-
-Update dependencies
-
-Write tests for inventory functions
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Cleanup codebase
-
-Update README with usage instructions
-
-Improve logging
-
-Refactor code for better readability
-
-Update requirements.txt
-
-Update dependencies
-
-Improve UI responsiveness
-
-Update README with usage instructions
-
-Remove unused imports
-
-Fix typo in code
-
-Fix bug in inventory module
-
-Fix bug in inventory module
-
-Improve error handling
-
-Refactor code for better readability
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Fix typo in code
-
-Write tests for inventory functions
-
-Cleanup codebase
-
-Implement user authentication
-
-Add new feature to inventory
-
-Optimize performance
-
-Update dependencies
-
-Optimize performance
-
-Update documentation
-
-Remove unused imports
-
-Update README with usage instructions
-
-Update requirements.txt
-
-Refactor code for better readability
-
-Implement user authentication
-
-Add new feature to inventory
-
-Refactor code for better readability
-
-Improve logging
-
-Add comments to clarify code
-
-Fix typo in code
-
-Add new feature to inventory
-
-Update documentation
-
-Cleanup codebase
-
-Add new feature to inventory
-
-Update requirements.txt
-
-Fix failing tests
-
-Add comments to clarify code
-
-Update dependencies
-
-Update dependencies
-
-Improve UI responsiveness
-
-Cleanup codebase
-
-Improve UI responsiveness
-
-Update config settings
-
-Add new feature to inventory
-
-Fix bug in inventory module
-
-Update dependencies
-
-Remove unused imports
-
-Cleanup codebase
-
-Add comments to clarify code
-
-Add comments to clarify code
-
-Update documentation
-
-Fix failing tests
-
-Update dependencies
-
-Update dependencies
-
-Update dependencies
-
-Improve logging
-
-Update config settings
-
-Add new feature to inventory
-
-Add new feature to inventory
-
-Improve error handling
-
-Fix typo in code
-
-Update dependencies
-
-Improve logging
-
-Update dependencies
-
-Cleanup codebase
-
-Improve error handling
-
-Improve UI responsiveness
-
-Implement user authentication
-
-Add comments to clarify code
-
-Update config settings
-
-Update requirements.txt
-
-Fix failing tests
-
-Fix bug in inventory module
-
-Update config settings
-
-Improve UI responsiveness
-
-Optimize performance
-
-Update dependencies
-
-Refactor code for better readability
-
-Optimize performance
-
-Optimize performance
-
-Add comments to clarify code
-
-Update dependencies
-
-Add new feature to inventory
-
-Optimize performance
-
-Fix bug in inventory module
-
-Fix typo in code
-
-Write tests for inventory functions
-
-Cleanup codebase
-
-Refactor code for better readability
-
-Cleanup codebase
-
-Fix bug in inventory module
-
-Update requirements.txt
-
-Optimize performance
-
-Optimize performance
-
-Add new feature to inventory
-
-Fix typo in code
-
-Implement user authentication
-
-Improve logging
-
-Add new feature to inventory
-
-Improve error handling
-
-Write tests for inventory functions
-
-Improve UI responsiveness
-
-Update dependencies
-
-Optimize performance
-
-Update dependencies
-
-Add comments to clarify code
-
-Improve logging
-
-Add support for new file format
-
-Improve logging
-
-Fix bug in inventory module
-
-Update requirements.txt
-
-Fix typo in code
-
-Update requirements.txt
-
-Improve logging
-
-Fix failing tests
-
-Add comments to clarify code
-
-Update config settings
-
-Fix failing tests
-
-Fix failing tests
-
-Update config settings
-
-Fix failing tests
-
-Optimize performance
-
-Write tests for inventory functions
-
-Fix bug in inventory module
-
-Implement user authentication
-
-Update requirements.txt
-
-Update documentation
-
-Update dependencies
-
-Add comments to clarify code
-
-Fix typo in code
-
-Fix bug in inventory module
-
-Add comments to clarify code
-
-Add new feature to inventory
-
-Write tests for inventory functions
-
-Improve logging
-
-Add support for new file format
-
-Update documentation
-
-Update documentation
-
-Remove unused imports
-
-Add comments to clarify code
-
-Update config settings
-
-Update documentation
-
-Fix bug in inventory module
-
-Improve UI responsiveness
-
-Update documentation
-
-Add comments to clarify code
-
-Update config settings
-
-Update README with usage instructions
-
-Optimize performance
-
-Add new feature to inventory
-
-Write tests for inventory functions
-
-Improve error handling
-
-Remove unused imports
-
-Remove unused imports
-
-Remove unused imports
-
-Update dependencies
-
-Add new feature to inventory
-
-Fix bug in inventory module
-
-Cleanup codebase
-
-Improve logging
-
-Remove unused imports
-
-Update requirements.txt
-
-Update README with usage instructions
-
-Add new feature to inventory
-
-Update config settings
-
-Add comments to clarify code
-
-Fix failing tests
-
-Write tests for inventory functions
-
-Add support for new file format
-
-Improve error handling
-
-Update requirements.txt
-
-Update dependencies
-
-Update config settings
-
-Improve logging
-
-Update requirements.txt
-
-Improve logging
-
-Improve UI responsiveness
-
-Implement user authentication
-
-Update requirements.txt
-
-Add new feature to inventory
-
-Update documentation
-
-Fix failing tests
-
-Add support for new file format
-
-Optimize performance
-
-Update documentation
-
-Improve error handling
-
-Optimize performance
-
-Add support for new file format
-
-Cleanup codebase
-
-Update config settings
-
-Fix bug in inventory module
-
-Refactor code for better readability
-
-Improve error handling
-
-Improve UI responsiveness
-
-Cleanup codebase
-
-Update requirements.txt
-
-Fix bug in inventory module
-
-Optimize performance
-
-Fix failing tests
-
-Optimize performance
-
-Fix failing tests
-
-Update documentation
-
-Add comments to clarify code
-
-Cleanup codebase
-
-Add comments to clarify code
-
-Improve logging
-
-Improve UI responsiveness
-
-Update config settings
-
-Fix typo in code
-
-Optimize performance
-
-Improve UI responsiveness
-
-Update dependencies
-
-Fix typo in code
-
-Update config settings
-
-Fix typo in code
-
-Fix bug in inventory module
-
-Add comments to clarify code
-
-Fix bug in inventory module
-
-Cleanup codebase
-
-Improve UI responsiveness
-
-Update dependencies
-
-Update requirements.txt
-
-Remove unused imports
-
-Update config settings
-
-Improve logging
-
-Cleanup codebase
-
-Update config settings
-
-Fix typo in code
-
-Improve logging
-
-Remove unused imports
-
-Update README with usage instructions
-
-Improve UI responsiveness
-
-Cleanup codebase
-
-Update documentation
-
-Fix failing tests
-
-Fix failing tests
-
-Refactor code for better readability
-
-Implement user authentication
-
-Update documentation
-
-Update README with usage instructions
-
+</div>
