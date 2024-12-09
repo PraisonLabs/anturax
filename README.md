@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/banner.png" alt="Anturax Banner" />
+  <img src="public/banner.png" alt="Anturax Banner" width="800"/>
 </p>
 
 <div align="center">
@@ -7,10 +7,14 @@
 # 🛸 ANTURAX  
 **Innovation · Perfection · Elegance**
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel)  
-![Status](https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github)  
-![License](https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons)  
+<br>
+
+![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel)
+![Status](https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons)
 ![Powered By](https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge&logo=data:image/svg+xml;base64,)
+
+<br>
 
 </div>
 
@@ -35,9 +39,14 @@
 
 ## 🧬 Overview
 
+<div align="center">
+
 > _Turn up the volume, baby. The future won't wait._
 
-**Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **PRAISON™ LABS** universe.  
+</div>
+
+**Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **PRAISON™ LABS** universe.
+
 It combines cyberpunk aesthetics, celestial themes, and retro-futuristic expression to craft a unique digital world.
 
 ---
@@ -68,17 +77,22 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 </div>
 
-**Star Coordinates**  
-- 🌟 *Sirius* – Convergence Era  
-- 🔭 *Vireon* – 22nd Century  
-- ✨ *V889*, *V557* – Deep quadrant anomalies  
-- 🔗 GitDNA Reference: `ANTURAX.GIT`
+### **Star Coordinates**  
+
+- 🌟 **Sirius** – Convergence Era  
+- 🔭 **Vireon** – 22nd Century  
+- ✨ **V889**, **V557** – Deep quadrant anomalies  
+- 🔗 **GitDNA Reference:** `ANTURAX.GIT`
 
 ---
 
 ## 🧱 Drop Collection
 
+<div align="center">
+
 > _Explore a visual payload coded in red neon and orbital data._
+
+</div>
 
 <div align="center">
 
@@ -92,12 +106,16 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 ### 🚨 Key Items
 
-| 🔻 Artifact | 💬 Description | ⚡ Power Level |
-|------------|----------------|----------------|
-| **Blood Eclipse Halo** | A crown forged in the heart of a dying sun | ████████████████████████████ 100% |
-| **Scarlet Alloy Exosuit** | Nanofiber armor with encoded cosmic relics | ████████████████████████████ 100% |
-| **Crimson Core Drive** | A volatile engine of rebirth and rebellion | ████████████████████████████ 100% |
-| **Inferno Circuitry** | A molten neural mesh that whispers futures | ████████████████████████████ 100% |
+<div align="center">
+
+| 🔻 **Artifact** | 💬 **Description** | ⚡ **Power Level** |
+|-----------------|--------------------|--------------------|
+| **Blood Eclipse Halo** | A crown forged in the heart of a dying sun | ████████████████████████████ **100%** |
+| **Scarlet Alloy Exosuit** | Nanofiber armor with encoded cosmic relics | ████████████████████████████ **100%** |
+| **Crimson Core Drive** | A volatile engine of rebirth and rebellion | ████████████████████████████ **100%** |
+| **Inferno Circuitry** | A molten neural mesh that whispers futures | ████████████████████████████ **100%** |
+
+</div>
 
 <div align="center">
 
@@ -119,9 +137,9 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+**Mystic builds from the deeper vaults:**
 
-Mystic builds from the deeper vaults:
+</div>
 
 <div align="center">
 
@@ -138,9 +156,13 @@ Mystic builds from the deeper vaults:
 
 ---
 
-## 🛠️ Tech Stack (If Implemented)
+## 🛠️ Tech Stack
+
+<div align="center">
 
 > _This section is optional and speculative unless the code is open._
+
+</div>
 
 <div align="center">
 
@@ -152,18 +174,22 @@ Mystic builds from the deeper vaults:
 
 </div>
 
-| 🧱 Technology | 📊 Usage | 🎯 Purpose |
-|---------------|----------|------------|
-| **HTML/CSS/JS** | ████████████████████████████ 100% | Visual prototyping |
-| **Three.js** | ████████████████████████████ 100% | 3D graphics & dynamics |
-| **Figma** | ████████████████████████████ 100% | Wireframes & design |
-| **Vercel** | ████████████████████████████ 100% | Deployment platform |
+| 🧱 **Technology** | 📊 **Usage** | 🎯 **Purpose** |
+|-------------------|--------------|----------------|
+| **HTML/CSS/JS** | ████████████████████████████ **100%** | Visual prototyping |
+| **Three.js** | ████████████████████████████ **100%** | 3D graphics & dynamics |
+| **Figma** | ████████████████████████████ **100%** | Wireframes & design |
+| **Vercel** | ████████████████████████████ **100%** | Deployment platform |
 
 ---
 
 ## 🔗 Live Preview
 
-> See the future for yourself.
+<div align="center">
+
+> _See the future for yourself._
+
+</div>
 
 <div align="center">
 
@@ -173,7 +199,7 @@ Mystic builds from the deeper vaults:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-🌐 **[Visit Anturax →](https://p-dich.vercel.app/anturax.html)**
+### 🌐 **[Visit Anturax →](https://p-dich.vercel.app/anturax.html)**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -214,8 +240,8 @@ Mystic builds from the deeper vaults:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> 🔮 *"ANTURAX is not a website. It's an echo from a possible future."*  
-> — _BL/S® Transmission Log 0001_
+### 🔮 *"ANTURAX is not a website. It's an echo from a possible future."*  
+**— _BL/S® Transmission Log 0001_**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
