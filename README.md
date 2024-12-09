@@ -1,20 +1,18 @@
-<p align="center">
-  <img src="public/banner.png" alt="Anturax Banner" width="800"/>
-</p>
+<div align="center">
+  <img src="public/banner.png" alt="Anturax Banner" width="100%" style="max-width: 800px;"/>
+</div>
 
 <div align="center">
 
 # 🛸 ANTURAX  
 **Innovation · Perfection · Elegance**
 
-<br>
-
-![Version](https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel)
-![Status](https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons)
-![Powered By](https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge&logo=data:image/svg+xml;base64,)
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons" alt="License">
+  <img src="https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge" alt="Powered By">
+</p>
 
 </div>
 
@@ -39,11 +37,9 @@
 
 ## 🧬 Overview
 
-<div align="center">
-
-> _Turn up the volume, baby. The future won't wait._
-
-</div>
+<p align="center">
+  <em>Turn up the volume, baby. The future won't wait.</em>
+</p>
 
 **Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **PRAISON™ LABS** universe.
 
@@ -88,11 +84,9 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 ## 🧱 Drop Collection
 
-<div align="center">
-
-> _Explore a visual payload coded in red neon and orbital data._
-
-</div>
+<p align="center">
+  <em>Explore a visual payload coded in red neon and orbital data.</em>
+</p>
 
 <div align="center">
 
@@ -108,8 +102,8 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 <div align="center">
 
-| 🔻 **Artifact** | 💬 **Description** | ⚡ **Power Level** |
-|-----------------|--------------------|--------------------|
+| 🔻 Artifact | 💬 Description | ⚡ Power Level |
+|-------------|----------------|----------------|
 | **Blood Eclipse Halo** | A crown forged in the heart of a dying sun | ████████████████████████████ **100%** |
 | **Scarlet Alloy Exosuit** | Nanofiber armor with encoded cosmic relics | ████████████████████████████ **100%** |
 | **Crimson Core Drive** | A volatile engine of rebirth and rebellion | ████████████████████████████ **100%** |
@@ -137,7 +131,7 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Mystic builds from the deeper vaults:**
+<strong>Mystic builds from the deeper vaults:</strong>
 
 </div>
 
@@ -158,11 +152,9 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-> _This section is optional and speculative unless the code is open._
-
-</div>
+<p align="center">
+  <em>This section is optional and speculative unless the code is open.</em>
+</p>
 
 <div align="center">
 
@@ -174,8 +166,8 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 </div>
 
-| 🧱 **Technology** | 📊 **Usage** | 🎯 **Purpose** |
-|-------------------|--------------|----------------|
+| 🧱 Technology | 📊 Usage | 🎯 Purpose |
+|---------------|----------|------------|
 | **HTML/CSS/JS** | ████████████████████████████ **100%** | Visual prototyping |
 | **Three.js** | ████████████████████████████ **100%** | 3D graphics & dynamics |
 | **Figma** | ████████████████████████████ **100%** | Wireframes & design |
@@ -185,11 +177,9 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 
 ## 🔗 Live Preview
 
-<div align="center">
-
-> _See the future for yourself._
-
-</div>
+<p align="center">
+  <em>See the future for yourself.</em>
+</p>
 
 <div align="center">
 
@@ -199,7 +189,11 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 🌐 **[Visit Anturax →](https://p-dich.vercel.app/anturax.html)**
+<p align="center">
+  <a href="https://p-dich.vercel.app/anturax.html">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Anturax-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Anturax">
+  </a>
+</p>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -240,8 +234,10 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 🔮 *"ANTURAX is not a website. It's an echo from a possible future."*  
-**— _BL/S® Transmission Log 0001_**
+<p align="center">
+  <strong><em>"ANTURAX is not a website. It's an echo from a possible future."</em></strong><br>
+  <strong>— BL/S® Transmission Log 0001</strong>
+</p>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
