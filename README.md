@@ -334,3 +334,5 @@ Update dependencies
 
 Improve logging
 
+Update config settings
+
