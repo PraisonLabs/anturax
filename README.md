@@ -338,3 +338,5 @@ Update config settings
 
 Add new feature to inventory
 
+Add new feature to inventory
+
