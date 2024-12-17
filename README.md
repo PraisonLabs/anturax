@@ -340,3 +340,5 @@ Add new feature to inventory
 
 Add new feature to inventory
 
+Improve error handling
+
