@@ -346,3 +346,5 @@ Fix typo in code
 
 Update dependencies
 
+Improve logging
+
