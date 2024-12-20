@@ -354,3 +354,5 @@ Cleanup codebase
 
 Improve error handling
 
+Improve UI responsiveness
+
