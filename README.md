@@ -358,3 +358,5 @@ Improve UI responsiveness
 
 Implement user authentication
 
+Add comments to clarify code
+
