@@ -368,3 +368,5 @@ Fix failing tests
 
 Fix bug in inventory module
 
+Update config settings
+
