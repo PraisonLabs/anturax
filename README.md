@@ -370,3 +370,5 @@ Fix bug in inventory module
 
 Update config settings
 
+Improve UI responsiveness
+
