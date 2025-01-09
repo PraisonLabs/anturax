@@ -390,3 +390,5 @@ Add new feature to inventory
 
 Optimize performance
 
+Fix bug in inventory module
+
