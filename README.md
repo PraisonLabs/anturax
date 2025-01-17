@@ -410,3 +410,5 @@ Optimize performance
 
 Optimize performance
 
+Add new feature to inventory
+
