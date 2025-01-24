@@ -426,3 +426,5 @@ Write tests for inventory functions
 
 Improve UI responsiveness
 
+Update dependencies
+
