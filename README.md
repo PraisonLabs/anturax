@@ -432,3 +432,5 @@ Optimize performance
 
 Update dependencies
 
+Add comments to clarify code
+
