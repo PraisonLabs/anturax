@@ -444,3 +444,5 @@ Fix bug in inventory module
 
 Update requirements.txt
 
+Fix typo in code
+
