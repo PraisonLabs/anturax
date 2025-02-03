@@ -440,3 +440,5 @@ Add support for new file format
 
 Improve logging
 
+Fix bug in inventory module
+
