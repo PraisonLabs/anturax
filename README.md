@@ -468,3 +468,5 @@ Optimize performance
 
 Write tests for inventory functions
 
+Fix bug in inventory module
+
