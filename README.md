@@ -476,3 +476,5 @@ Update requirements.txt
 
 Update documentation
 
+Update dependencies
+
