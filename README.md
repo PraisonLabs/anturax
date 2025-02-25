@@ -492,3 +492,5 @@ Write tests for inventory functions
 
 Improve logging
 
+Add support for new file format
+
