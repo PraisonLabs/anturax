@@ -494,3 +494,5 @@ Improve logging
 
 Add support for new file format
 
+Update documentation
+
