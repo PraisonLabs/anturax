@@ -508,3 +508,5 @@ Update documentation
 
 Fix bug in inventory module
 
+Improve UI responsiveness
+
