@@ -506,3 +506,5 @@ Update config settings
 
 Update documentation
 
+Fix bug in inventory module
+
