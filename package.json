@@ -18,7 +18,14 @@
     "preview": "vite preview"
   },
   "keywords": [
-    "cyberpunk"
+    "cyberpunk",
+    "futuristic",
+    "visual",
+    "interactive",
+    "webgl",
+    "three.js",
+    "react",
+    "typescript"
   ],
   "author": "BL/S� & DICH",
   "license": "CC-BY-NC-4.0",
