@@ -522,3 +522,5 @@ Optimize performance
 
 Add new feature to inventory
 
+Write tests for inventory functions
+
