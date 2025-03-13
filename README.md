@@ -524,3 +524,5 @@ Add new feature to inventory
 
 Write tests for inventory functions
 
+Improve error handling
+
