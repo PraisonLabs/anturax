@@ -536,3 +536,5 @@ Update dependencies
 
 Add new feature to inventory
 
+Fix bug in inventory module
+
