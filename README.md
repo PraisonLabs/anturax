@@ -540,3 +540,5 @@ Fix bug in inventory module
 
 Cleanup codebase
 
+Improve logging
+
