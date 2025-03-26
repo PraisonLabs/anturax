@@ -550,3 +550,5 @@ Update README with usage instructions
 
 Add new feature to inventory
 
+Update config settings
+
