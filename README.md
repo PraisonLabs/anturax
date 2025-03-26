@@ -548,3 +548,5 @@ Update requirements.txt
 
 Update README with usage instructions
 
+Add new feature to inventory
+
