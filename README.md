@@ -556,3 +556,5 @@ Add comments to clarify code
 
 Fix failing tests
 
+Write tests for inventory functions
+
