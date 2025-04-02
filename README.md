@@ -562,3 +562,5 @@ Add support for new file format
 
 Improve error handling
 
+Update requirements.txt
+
