@@ -576,3 +576,5 @@ Improve logging
 
 Improve UI responsiveness
 
+Implement user authentication
+
