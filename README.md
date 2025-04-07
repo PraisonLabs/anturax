@@ -578,3 +578,5 @@ Improve UI responsiveness
 
 Implement user authentication
 
+Update requirements.txt
+
