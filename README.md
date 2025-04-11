@@ -590,3 +590,5 @@ Add support for new file format
 
 Optimize performance
 
+Update documentation
+
