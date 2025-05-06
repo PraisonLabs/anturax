@@ -606,3 +606,5 @@ Fix bug in inventory module
 
 Refactor code for better readability
 
+Improve error handling
+
