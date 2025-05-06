@@ -612,3 +612,5 @@ Improve UI responsiveness
 
 Cleanup codebase
 
+Update requirements.txt
+
