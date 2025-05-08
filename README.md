@@ -626,3 +626,5 @@ Fix failing tests
 
 Update documentation
 
+Add comments to clarify code
+
