@@ -634,3 +634,5 @@ Add comments to clarify code
 
 Improve logging
 
+Improve UI responsiveness
+
