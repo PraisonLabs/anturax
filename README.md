@@ -648,3 +648,5 @@ Update dependencies
 
 Fix typo in code
 
+Update config settings
+
