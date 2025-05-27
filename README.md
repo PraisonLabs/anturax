@@ -660,3 +660,5 @@ Fix bug in inventory module
 
 Cleanup codebase
 
+Improve UI responsiveness
+
