@@ -664,3 +664,5 @@ Improve UI responsiveness
 
 Update dependencies
 
+Update requirements.txt
+
