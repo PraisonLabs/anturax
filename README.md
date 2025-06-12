@@ -674,3 +674,5 @@ Improve logging
 
 Cleanup codebase
 
+Update config settings
+
