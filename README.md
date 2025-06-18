@@ -678,3 +678,5 @@ Update config settings
 
 Fix typo in code
 
+Improve logging
+
