@@ -682,3 +682,5 @@ Improve logging
 
 Remove unused imports
 
+Update README with usage instructions
+
