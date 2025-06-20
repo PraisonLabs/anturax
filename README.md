@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dummyimage.com/1200x300/101010/ff0000.png&text=ANTURAX" alt="Anturax Banner" />
+  <img src="public/banner.png" alt="Anturax Banner" />
 </p>
 
 <h1 align="center">🛡️ Anturax</h1>
