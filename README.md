@@ -1,682 +1,117 @@
-Contribution: 2024-06-24 20:00
+<p align="center">
+  <img src="https://dummyimage.com/1200x300/101010/ff0000.png&text=ANTURAX" alt="Anturax Banner" />
+</p>
 
-Contribution: 2024-06-24 20:01
+<h1 align="center">🛡️ Anturax</h1>
+<p align="center"><strong>Cybersecurity Sandbox & Threat Intelligence Dashboard</strong></p>
 
-Contribution: 2024-06-24 20:02
+<p align="center">
+  <a href="https://github.com/yourusername/anturax/stargazers"><img src="https://img.shields.io/github/stars/yourusername/anturax?style=social" /></a>
+  <a href="https://github.com/yourusername/anturax/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/anturax" /></a>
+  <a href="https://github.com/yourusername/anturax/issues"><img src="https://img.shields.io/github/issues/yourusername/anturax" /></a>
+</p>
 
-Contribution: 2024-06-24 20:03
+---
 
-Contribution: 2024-06-25 20:00
+## 🔍 Overview
 
-Contribution: 2024-06-26 20:00
+**Anturax** is a simulated cybersecurity environment designed for analyzing threats, monitoring suspicious behaviors, and training security workflows — all in a safe, educational sandbox. It mimics real-world systems without the risk of executing real malware.
 
-Contribution: 2024-06-26 20:01
+---
 
-Contribution: 2024-06-27 20:00
+## 🌐 Project Showcase
 
-Contribution: 2024-06-27 20:01
+Explore the official **Anturax** project showcase, a futuristic and immersive web experience that captures the project's aesthetic and lore.
 
-Contribution: 2024-07-01 20:00
+**[Visit the Anturax Website](https://p-dich.vercel.app/anturax.html)**
 
-Contribution: 2024-07-04 20:00
+<p align="center">
+  <a href="https://p-dich.vercel.app/anturax.html">
+    <img src="https://dummyimage.com/600x400/101010/ff0000.png&text=Inferno+Circuitry" alt="Anturax Website Showcase" />
+  </a>
+</p>
 
-Contribution: 2024-07-04 20:01
+> Drenched in crimson, pulsing with neon-red rebellion... a pulsating web of molten data, rewriting the fabric of reality.
 
-Contribution: 2024-07-04 20:02
+This award-winning site by [Serhii Polyvanyi](https://p-dich.vercel.app/anturax.html) provides the thematic backdrop for the Anturax cybersecurity simulator.
 
-Contribution: 2024-07-04 20:03
+---
 
-Contribution: 2024-07-05 20:00
+## 🧩 Features
 
-Contribution: 2024-07-05 20:01
+- 🧪 Simulated malware sandbox (no actual threats)
+- 📡 Threat detection logs with mock telemetry
+- 🌐 Heatmap dashboard for real-time attack surface visualization
+- 🚨 Process anomaly scoring system
+- 🛑 Simulated firewall & packet tracing modules
 
-Contribution: 2024-07-08 20:00
+---
 
-Contribution: 2024-07-08 20:01
+## 🛠️ Tech Stack
 
-Contribution: 2024-07-09 20:00
+| Layer        | Technologies              |
+|--------------|---------------------------|
+| Frontend     | React, Tailwind CSS       |
+| Backend      | Node.js, Express          |
+| Visualization| Chart.js, D3.js           |
+| Simulation   | Mock Sysmon, JSON feeds   |
 
-Contribution: 2024-07-09 20:01
+---
 
-Contribution: 2024-07-12 20:00
+## 📁 Directory Structure
 
-Contribution: 2024-07-15 20:00
+```bash
+anturax/
+├── src/
+│   ├── backend/          # Express API (mock)
+│   ├── frontend/         # React dashboard
+│   └── simulator/        # Fake telemetry/data stream
+├── assets/               # Screenshots & demo assets
+├── .env.example
+├── README.md
+├── LICENSE
+└── package.json
+```
 
-Contribution: 2024-07-15 20:01
+---
 
-Contribution: 2024-07-15 20:02
+## 🚀 Quick Start
 
-Contribution: 2024-07-16 20:00
+```bash
+git clone https://github.com/yourusername/anturax.git
+cd anturax
+npm install
+cp .env.example .env
+npm run dev
+```
 
-Contribution: 2024-07-16 20:01
+---
 
-Contribution: 2024-07-16 20:02
+## 📸 Screenshots
 
-Contribution: 2024-07-16 20:03
+| Threat Overview                                                                   | Packet Monitor                                                                        |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![map](https://dummyimage.com/400x300/101010/ff0000.png&text=Threat+Vector+Analysis) | ![packet](https://dummyimage.com/400x300/101010/ff0000.png&text=Live+Packet+Stream) |
 
-Contribution: 2024-07-17 20:00
+---
 
-Contribution: 2024-07-17 20:01
+## 🧪 Test Simulated Attack
 
-Contribution: 2024-07-17 20:02
+```bash
+npm run simulate:attack
+```
 
-Contribution: 2024-07-17 20:03
+---
 
-Contribution: 2024-07-18 20:00
+## 📄 License
 
-Contribution: 2024-07-22 20:00
+Licensed under the [MIT License](./LICENSE)
 
-Contribution: 2024-07-22 20:01
+---
 
-Contribution: 2024-07-23 20:00
+## 🙋 About
 
-Contribution: 2024-07-23 20:01
+Made by [@yourusername](https://github.com/yourusername)
+For educational demos, portfolios, and fun. Not for actual deployment.
 
-Contribution: 2024-07-23 20:02
-
-Contribution: 2024-07-23 20:03
-
-Contribution: 2024-07-24 20:00
-
-Contribution: 2024-07-25 20:00
-
-Contribution: 2024-07-25 20:01
-
-Contribution: 2024-07-26 20:00
-
-Contribution: 2024-07-29 20:00
-
-Contribution: 2024-07-29 20:01
-
-Contribution: 2024-07-29 20:02
-
-Contribution: 2024-07-30 20:00
-
-Contribution: 2024-07-30 20:01
-
-Contribution: 2024-07-30 20:02
-
-Contribution: 2024-07-30 20:03
-
-Contribution: 2024-08-01 20:00
-
-Contribution: 2024-08-01 20:01
-
-Contribution: 2024-08-02 20:00
-
-Contribution: 2024-08-07 20:00
-
-Contribution: 2024-08-09 20:00
-
-Contribution: 2024-08-12 20:00
-
-Contribution: 2024-08-12 20:01
-
-Contribution: 2024-08-15 20:00
-
-Contribution: 2024-08-15 20:01
-
-Contribution: 2024-08-15 20:02
-
-Contribution: 2024-08-19 20:00
-
-Contribution: 2024-08-19 20:01
-
-Contribution: 2024-08-20 20:00
-
-Contribution: 2024-08-20 20:01
-
-Contribution: 2024-08-20 20:02
-
-Contribution: 2024-08-20 20:03
-
-Contribution: 2024-08-22 20:00
-
-Contribution: 2024-08-26 20:00
-
-Contribution: 2024-08-26 20:01
-
-Contribution: 2024-08-28 20:00
-
-Contribution: 2024-08-28 20:01
-
-Contribution: 2024-09-03 20:00
-
-Contribution: 2024-09-03 20:01
-
-Contribution: 2024-09-03 20:02
-
-Contribution: 2024-09-03 20:03
-
-Contribution: 2024-09-04 20:00
-
-Contribution: 2024-09-04 20:01
-
-Contribution: 2024-09-04 20:02
-
-Contribution: 2024-09-05 20:00
-
-Contribution: 2024-09-05 20:01
-
-Contribution: 2024-09-11 20:00
-
-Contribution: 2024-09-11 20:01
-
-Contribution: 2024-09-11 20:02
-
-Contribution: 2024-09-11 20:03
-
-Contribution: 2024-09-13 20:00
-
-Contribution: 2024-09-13 20:01
-
-Contribution: 2024-09-13 20:02
-
-Contribution: 2024-09-13 20:03
-
-Contribution: 2024-09-18 20:00
-
-Contribution: 2024-09-18 20:01
-
-Contribution: 2024-09-18 20:02
-
-Contribution: 2024-09-18 20:03
-
-Contribution: 2024-09-19 20:00
-
-Contribution: 2024-09-19 20:01
-
-Contribution: 2024-09-19 20:02
-
-Contribution: 2024-09-24 20:00
-
-Contribution: 2024-09-24 20:01
-
-Contribution: 2024-09-24 20:02
-
-Contribution: 2024-09-25 20:00
-
-Contribution: 2024-09-25 20:01
-
-Contribution: 2024-09-25 20:02
-
-Contribution: 2024-09-27 20:00
-
-Contribution: 2024-09-27 20:01
-
-Contribution: 2024-09-27 20:02
-
-Contribution: 2024-09-27 20:03
-
-Contribution: 2024-10-01 20:00
-
-Contribution: 2024-10-02 20:00
-
-Contribution: 2024-10-03 20:00
-
-Contribution: 2024-10-03 20:01
-
-Contribution: 2024-10-03 20:02
-
-Contribution: 2024-10-07 20:00
-
-Contribution: 2024-10-07 20:01
-
-Contribution: 2024-10-07 20:02
-
-Contribution: 2024-10-09 20:00
-
-Contribution: 2024-10-11 20:00
-
-Contribution: 2024-10-11 20:01
-
-Contribution: 2024-10-16 20:00
-
-Contribution: 2024-10-17 20:00
-
-Contribution: 2024-10-18 20:00
-
-Contribution: 2024-10-18 20:01
-
-Contribution: 2024-10-18 20:02
-
-Contribution: 2024-10-18 20:03
-
-Contribution: 2024-10-21 20:00
-
-Contribution: 2024-10-22 20:00
-
-Contribution: 2024-10-22 20:01
-
-Contribution: 2024-10-22 20:02
-
-Contribution: 2024-10-23 20:00
-
-Contribution: 2024-10-23 20:01
-
-Contribution: 2024-10-23 20:02
-
-Contribution: 2024-10-24 20:00
-
-Contribution: 2024-10-29 20:00
-
-Contribution: 2024-10-31 20:00
-
-Contribution: 2024-11-01 20:00
-
-Contribution: 2024-11-01 20:01
-
-Contribution: 2024-11-01 20:02
-
-Contribution: 2024-11-01 20:03
-
-Contribution: 2024-11-04 20:00
-
-Contribution: 2024-11-04 20:01
-
-Contribution: 2024-11-04 20:02
-
-Contribution: 2024-11-07 20:00
-
-Contribution: 2024-11-07 20:01
-
-Contribution: 2024-11-07 20:02
-
-Contribution: 2024-11-07 20:03
-
-Contribution: 2024-11-13 20:00
-
-Contribution: 2024-11-13 20:01
-
-Contribution: 2024-11-14 20:00
-
-Contribution: 2024-11-14 20:01
-
-Contribution: 2024-11-20 20:00
-
-Contribution: 2024-11-20 20:01
-
-Contribution: 2024-11-20 20:02
-
-Contribution: 2024-11-20 20:03
-
-Contribution: 2024-11-21 20:00
-
-Contribution: 2024-11-21 20:01
-
-Contribution: 2024-11-22 20:00
-
-Contribution: 2024-11-22 20:01
-
-Contribution: 2024-11-22 20:02
-
-Contribution: 2024-11-22 20:03
-
-Contribution: 2024-11-25 20:00
-
-Contribution: 2024-11-25 20:01
-
-Contribution: 2024-11-25 20:02
-
-Contribution: 2024-12-02 20:00
-
-Contribution: 2024-12-03 20:00
-
-Contribution: 2024-12-03 20:01
-
-Contribution: 2024-12-09 20:00
-
-Contribution: 2024-12-09 20:01
-
-Contribution: 2024-12-10 20:00
-
-Contribution: 2024-12-10 20:01
-
-Contribution: 2024-12-10 20:02
-
-Contribution: 2024-12-11 20:00
-
-Contribution: 2024-12-16 20:00
-
-Contribution: 2024-12-16 20:01
-
-Contribution: 2024-12-16 20:02
-
-Contribution: 2024-12-16 20:03
-
-Contribution: 2024-12-19 20:00
-
-Contribution: 2024-12-19 20:01
-
-Contribution: 2024-12-19 20:02
-
-Contribution: 2024-12-19 20:03
-
-Contribution: 2024-12-20 20:00
-
-Contribution: 2024-12-20 20:01
-
-Contribution: 2024-12-24 20:00
-
-Contribution: 2024-12-26 20:00
-
-Contribution: 2025-01-02 20:00
-
-Contribution: 2025-01-08 20:00
-
-Contribution: 2025-01-08 20:01
-
-Contribution: 2025-01-08 20:02
-
-Contribution: 2025-01-08 20:03
-
-Contribution: 2025-01-09 20:00
-
-Contribution: 2025-01-09 20:01
-
-Contribution: 2025-01-09 20:02
-
-Contribution: 2025-01-09 20:03
-
-Contribution: 2025-01-14 20:00
-
-Contribution: 2025-01-15 20:00
-
-Contribution: 2025-01-17 20:00
-
-Contribution: 2025-01-17 20:01
-
-Contribution: 2025-01-17 20:02
-
-Contribution: 2025-01-21 20:00
-
-Contribution: 2025-01-23 20:00
-
-Contribution: 2025-01-23 20:01
-
-Contribution: 2025-01-23 20:02
-
-Contribution: 2025-01-23 20:03
-
-Contribution: 2025-01-28 20:00
-
-Contribution: 2025-01-28 20:01
-
-Contribution: 2025-01-28 20:02
-
-Contribution: 2025-01-29 20:00
-
-Contribution: 2025-01-29 20:01
-
-Contribution: 2025-01-30 20:00
-
-Contribution: 2025-01-30 20:01
-
-Contribution: 2025-01-30 20:02
-
-Contribution: 2025-01-31 20:00
-
-Contribution: 2025-01-31 20:01
-
-Contribution: 2025-01-31 20:02
-
-Contribution: 2025-02-03 20:00
-
-Contribution: 2025-02-03 20:01
-
-Contribution: 2025-02-04 20:00
-
-Contribution: 2025-02-05 20:00
-
-Contribution: 2025-02-07 20:00
-
-Contribution: 2025-02-07 20:01
-
-Contribution: 2025-02-07 20:02
-
-Contribution: 2025-02-07 20:03
-
-Contribution: 2025-02-10 20:00
-
-Contribution: 2025-02-10 20:01
-
-Contribution: 2025-02-10 20:02
-
-Contribution: 2025-02-10 20:03
-
-Contribution: 2025-02-11 20:00
-
-Contribution: 2025-02-11 20:01
-
-Contribution: 2025-02-11 20:02
-
-Contribution: 2025-02-12 20:00
-
-Contribution: 2025-02-12 20:01
-
-Contribution: 2025-02-13 20:00
-
-Contribution: 2025-02-13 20:01
-
-Contribution: 2025-02-13 20:02
-
-Contribution: 2025-02-17 20:00
-
-Contribution: 2025-02-17 20:01
-
-Contribution: 2025-02-17 20:02
-
-Contribution: 2025-02-18 20:00
-
-Contribution: 2025-02-18 20:01
-
-Contribution: 2025-02-18 20:02
-
-Contribution: 2025-02-18 20:03
-
-Contribution: 2025-02-20 20:00
-
-Contribution: 2025-02-20 20:01
-
-Contribution: 2025-02-20 20:02
-
-Contribution: 2025-02-20 20:03
-
-Contribution: 2025-02-21 20:00
-
-Contribution: 2025-02-21 20:01
-
-Contribution: 2025-02-21 20:02
-
-Contribution: 2025-02-25 20:00
-
-Contribution: 2025-02-25 20:01
-
-Contribution: 2025-02-25 20:02
-
-Contribution: 2025-02-26 20:00
-
-Contribution: 2025-02-26 20:01
-
-Contribution: 2025-02-26 20:02
-
-Contribution: 2025-02-28 20:00
-
-Contribution: 2025-02-28 20:01
-
-Contribution: 2025-02-28 20:02
-
-Contribution: 2025-03-03 20:00
-
-Contribution: 2025-03-05 20:00
-
-Contribution: 2025-03-05 20:01
-
-Contribution: 2025-03-05 20:02
-
-Contribution: 2025-03-05 20:03
-
-Contribution: 2025-03-06 20:00
-
-Contribution: 2025-03-06 20:01
-
-Contribution: 2025-03-07 20:00
-
-Contribution: 2025-03-11 20:00
-
-Contribution: 2025-03-11 20:01
-
-Contribution: 2025-03-12 20:00
-
-Contribution: 2025-03-12 20:01
-
-Contribution: 2025-03-12 20:02
-
-Contribution: 2025-03-14 20:00
-
-Contribution: 2025-03-17 20:00
-
-Contribution: 2025-03-19 20:00
-
-Contribution: 2025-03-20 20:00
-
-Contribution: 2025-03-20 20:01
-
-Contribution: 2025-03-20 20:02
-
-Contribution: 2025-03-21 20:00
-
-Contribution: 2025-03-24 20:00
-
-Contribution: 2025-03-24 20:01
-
-Contribution: 2025-03-24 20:02
-
-Contribution: 2025-03-25 20:00
-
-Contribution: 2025-03-25 20:01
-
-Contribution: 2025-03-26 20:00
-
-Contribution: 2025-03-26 20:01
-
-Contribution: 2025-03-26 20:02
-
-Contribution: 2025-03-26 20:03
-
-Contribution: 2025-03-28 20:00
-
-Contribution: 2025-03-28 20:01
-
-Contribution: 2025-03-28 20:02
-
-Contribution: 2025-03-28 20:03
-
-Contribution: 2025-03-31 20:00
-
-Contribution: 2025-03-31 20:01
-
-Contribution: 2025-03-31 20:02
-
-Contribution: 2025-03-31 20:03
-
-Contribution: 2025-04-02 20:00
-
-Contribution: 2025-04-02 20:01
-
-Contribution: 2025-04-02 20:02
-
-Contribution: 2025-04-02 20:03
-
-Contribution: 2025-04-07 20:00
-
-Contribution: 2025-04-07 20:01
-
-Contribution: 2025-04-07 20:02
-
-Contribution: 2025-04-14 20:00
-
-Contribution: 2025-04-14 20:01
-
-Contribution: 2025-04-15 20:00
-
-Contribution: 2025-04-15 20:01
-
-Contribution: 2025-04-15 20:02
-
-Contribution: 2025-04-18 20:00
-
-Contribution: 2025-04-24 20:00
-
-Contribution: 2025-04-24 20:01
-
-Contribution: 2025-04-24 20:02
-
-Contribution: 2025-04-24 20:03
-
-Contribution: 2025-04-28 20:00
-
-Contribution: 2025-04-28 20:01
-
-Contribution: 2025-05-02 20:00
-
-Contribution: 2025-05-02 20:01
-
-Contribution: 2025-05-12 20:00
-
-Contribution: 2025-05-12 20:01
-
-Contribution: 2025-05-12 20:02
-
-Contribution: 2025-05-12 20:03
-
-Contribution: 2025-05-14 20:00
-
-Contribution: 2025-05-14 20:01
-
-Contribution: 2025-05-14 20:02
-
-Contribution: 2025-05-15 20:00
-
-Contribution: 2025-05-27 20:00
-
-Contribution: 2025-05-27 20:01
-
-Contribution: 2025-05-27 20:02
-
-Contribution: 2025-05-27 20:03
-
-Contribution: 2025-05-28 20:00
-
-Contribution: 2025-05-28 20:01
-
-Contribution: 2025-05-29 20:00
-
-Contribution: 2025-05-29 20:01
-
-Contribution: 2025-05-29 20:02
-
-Contribution: 2025-06-02 20:00
-
-Contribution: 2025-06-02 20:01
-
-Contribution: 2025-06-02 20:02
-
-Contribution: 2025-06-02 20:03
-
-Contribution: 2025-06-05 20:00
-
-Contribution: 2025-06-05 20:01
-
-Contribution: 2025-06-12 20:00
-
-Contribution: 2025-06-12 20:01
-
-Contribution: 2025-06-12 20:02
-
-Contribution: 2025-06-13 20:00
-
-Contribution: 2025-06-17 20:00
-
-Contribution: 2025-06-17 20:01
-
+> *Anturax is where threats are studied, not spread.*
