@@ -698,3 +698,5 @@ Refactor code for better readability
 
 Implement user authentication
 
+Update documentation
+
