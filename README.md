@@ -19,13 +19,10 @@
 
 > _Turn up the volume, baby. The future won’t wait._
 
-**Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **DICH™ Fashion** universe.  
+**Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **PRAISON™ LABS** universe.  
 It combines cyberpunk aesthetics, celestial themes, and retro-futuristic expression to craft a unique digital world.
 
-- 🛰️ **Codename**: New Era of DICH  
-- 🎨 **Concept & Visuals**: Serhii Polyvanyi (BL/S®)  
-- 🧠 **Design Inspiration**: Masterclass by Niccolo Miranda (Awwwards)  
-- 🕰️ **Years**: 2024–2045  
+- 🛰️ **Codename**: New Era of PRAISON LABS  
 
 ---
 
@@ -95,15 +92,6 @@ Mystic builds from the deeper vaults:
 ## 🧾 License
 
 [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
-
----
-
-## ✨ Credits
-
-- 👤 **Creator**: Serhii Polyvanyi (BL/S®)  
-- 🎓 **Mentorship**: Niccolo Miranda, via Awwwards Masterclass  
-- 🗓️ **Timeline**: 2024–2045  
-- 🛰️ **Origin Site**: [p-dich.vercel.app/anturax.html](https://p-dich.vercel.app/anturax.html)
 
 ---
 
