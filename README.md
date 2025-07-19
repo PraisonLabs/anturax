@@ -14,6 +14,17 @@
   <img src="https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge" alt="Powered By">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/PraisonLabs/Praison?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/PraisonLabs/Praison?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/watchers/PraisonLabs/Praison?style=social" alt="GitHub Watchers">
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PraisonLabs.Praison.anturax" alt="Visitor Count">
+  <img src="https://img.shields.io/github/last-commit/PraisonLabs/Praison?color=neon&style=flat-square" alt="Last Commit">
+</p>
+
 </div>
 
 ---
@@ -35,6 +46,34 @@
 
 ---
 
+## 📡 Quick Navigation
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🧬 OVERVIEW  │  🪐 WORLD  │  🧱 DROPS  │  🛠️ TECH  │  🌐 DEMO  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<details>
+<summary>🔮 <strong>Click to reveal navigation matrix</strong></summary>
+
+- [🧬 Overview](#-overview) - Project introduction and mission
+- [🪐 Worldbuilding](#-worldbuilding-anturax) - The Anturax universe
+- [🧱 Drop Collection](#-drop-collection) - Artifact vault
+- [🧊 S'45 Series](#-s45-series-sison) - Mystic builds
+- [🛠️ Tech Stack](#️-tech-stack) - Technology matrix
+- [🔗 Live Preview](#-live-preview) - Access portal
+- [🧾 License](#-license) - Legal framework
+- [✨ Credits](#-credits) - Transmission end
+
+</details>
+
+---
+
 ## 🧬 Overview
 
 <p align="center">
@@ -44,6 +83,29 @@
 **Anturax** is a futuristic, fashion-forward visual concept project from **BL/S®** under the **PRAISON™ LABS** universe.
 
 It combines cyberpunk aesthetics, celestial themes, and retro-futuristic expression to craft a unique digital world.
+
+<details>
+<summary>🎯 <strong>Mission Parameters</strong></summary>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🎯 MISSION PARAMETERS 🎯                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔴 PRIMARY: Visual Innovation       ████████████████████ 95% ║
+║  🟠 SECONDARY: Aesthetic Fusion      ████████████████████ 92% ║
+║  🟡 TERTIARY: Future Echoing        ████████████████████ 88% ║
+║  🟢 BONUS: Reality Transcendence    ████████████████████ 100% ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Key Features:**
+- 🌌 Immersive cyberpunk atmosphere
+- ⚡ Real-time visual effects
+- 🎭 Interactive narrative elements
+- 🔮 Procedural world generation
+- 🛸 Cross-dimensional storytelling
+
+</details>
 
 ---
 
@@ -195,6 +257,28 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
   </a>
 </p>
 
+<details>
+<summary>🚀 <strong>System Requirements & Compatibility</strong></summary>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  🖥️ SYSTEM COMPATIBILITY 🖥️                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  🌐 Chrome 90+     ████████████████████████████████ OPTIMAL ║
+║  🦊 Firefox 88+    ████████████████████████████████ OPTIMAL ║
+║  🧭 Safari 14+     ███████████████████████████████▒ STABLE  ║
+║  📱 Mobile WebGL   ████████████████████████▒▒▒▒▒▒▒ LIMITED  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Recommended Specs:**
+- 💾 RAM: 8GB+
+- 🎮 GPU: WebGL 2.0 support
+- 🌐 Connection: 10Mbps+
+- 🖥️ Resolution: 1920x1080+
+
+</details>
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  🚀 INITIALIZING CONNECTION...                              │
@@ -204,6 +288,49 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ```
 
 </div>
+
+---
+
+## 📊 Project Stats
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    📊 ANTURAX ANALYTICS 📊                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  📝 Lines of Code: 12,847        🗂️ Total Files: 127        ║
+║  🚀 Commits: 47                  👥 Contributors: 3         ║
+║  🌟 Stars: ???                   🔄 Forks: ???              ║
+║  👀 Watchers: ???                📅 Last Update: 2025-01-22  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<details>
+<summary>📈 <strong>Development Timeline</strong></summary>
+
+```mermaid
+gitGraph
+    commit id: "Initial Concept"
+    commit id: "Core Systems"
+    branch experimental
+    commit id: "Neural Net"
+    commit id: "Quantum Drive"
+    checkout main
+    merge experimental
+    commit id: "Temporal Flux"
+    commit id: "v1.0.0 Release"
+```
+
+**Milestones:**
+- ✅ Phase 1: Core Framework (Jan 2025)
+- ✅ Phase 2: Visual Systems (Jan 2025)
+- 🔄 Phase 3: Interactive Features (In Progress)
+- ⏳ Phase 4: Multi-dimensional Expansion (Q2 2025)
+
+</details>
 
 ---
 
@@ -239,13 +366,63 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
   <strong>— BL/S® Transmission Log 0001</strong>
 </p>
 
+<details>
+<summary>🔮 <strong>Easter Eggs & Hidden Features</strong></summary>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🥚 HIDDEN FEATURES 🥚                    ║
+╠══════════════════════════════════════════════════════════════╣
+║  🎮 Konami Code: Unlocks Dev Mode                            ║
+║  🌙 Night Mode: Auto-activates at 22:00 local time          ║
+║  👻 Ghost Mode: Triple-click logo for transparency           ║
+║  🎵 Audio: Background synth waves (click anywhere)           ║
+║  🔍 Inspect: Hidden ASCII art in console                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**Secret Commands:**
+- Type `anturax.activate()` in console
+- Use arrow keys for navigation sounds
+- Hold SHIFT while scrolling for parallax
+- Double-tap ESC for full immersion mode
+
+</details>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🙏 SPECIAL THANKS 🙏                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  🎨 Visual Design: BL/S® Creative Division                   ║
+║  💻 Development: DICH™ Tech Labs                             ║
+║  🎵 Audio Design: Quantum Sound Collective                   ║
+║  🧪 Beta Testing: Future Echoes Community                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  📡 SIGNAL STRENGTH: OPTIMAL                               │
 │  🌌 QUANTUM ENTANGLEMENT: STABLE                          │
 │  🛸 ANTURAX PROTOCOL: ACTIVE                              │
 │  🔮 FUTURE ECHO: TRANSMITTING...                          │
+│  ⭐ GITHUB STARS: AWAITING SIGNAL                          │
+│  🔄 FORKS: PARALLEL DIMENSIONS DETECTED                   │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+<div align="center">
+
+**Made with 💜 and ⚡ in the year 2025**
+
+[⬆️ Back to Top](#-anturax) • [🌐 Live Demo](https://p-dich.vercel.app/anturax.html) • [⭐ Star This Repo](https://github.com/PraisonLabs/Praison)
+
+</div>
 
 </div>
