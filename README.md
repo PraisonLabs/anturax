@@ -252,7 +252,7 @@ It combines cyberpunk aesthetics, celestial themes, and retro-futuristic express
 ```
 
 <p align="center">
-  <a href="https://p-dich.vercel.app/anturax.html">
+  <a href="https://praisonlabs.com/anturax.html">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Anturax-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Anturax">
   </a>
 </p>
@@ -421,7 +421,7 @@ gitGraph
 
 **Made with 💜 and ⚡ in the year 2025**
 
-[⬆️ Back to Top](#-anturax) • [🌐 Live Demo](https://p-dich.vercel.app/anturax.html) • [⭐ Star This Repo](https://github.com/PraisonLabs/Praison)
+[⬆️ Back to Top](#-anturax) • [🌐 Live Demo](https://praisonlabs.com/anturax.html) • [⭐ Star This Repo](https://github.com/PraisonLabs/Praison)
 
 </div>
 
