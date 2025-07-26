@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=vercel" alt="Version">
   <img src="https://img.shields.io/badge/Status-Experimental-red?style=for-the-badge&logo=github" alt="Status">
   <img src="https://img.shields.io/badge/License-Creative_Commons-ff69b4?style=for-the-badge&logo=creativecommons" alt="License">
-  <img src="https://img.shields.io/badge/Powered%20By-BL/S®%20&%20DICH™-black?style=for-the-badge" alt="Powered By">
 </p>
 
 <p align="center">
@@ -396,7 +395,6 @@ gitGraph
 ║                    🙏 SPECIAL THANKS 🙏                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  🎨 Visual Design: BL/S® Creative Division                   ║
-║  💻 Development: DICH™ Tech Labs                             ║
 ║  🎵 Audio Design: Quantum Sound Collective                   ║
 ║  🧪 Beta Testing: Future Echoes Community                    ║
 ╚══════════════════════════════════════════════════════════════╝
